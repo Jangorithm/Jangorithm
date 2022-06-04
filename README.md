@@ -10,7 +10,7 @@
  
 <!--활동 로고 -->
  #### 🌊활동🌊
- <a href=" https://jugahy.github.io/"><img src="https://img.shields.io/badge/eyears blog-99CCFF?style=for-the-badge&logo=&logoColor=white"/></a> 
+ <a href="https://jugahy.github.io/"><img src="https://img.shields.io/badge/eyears blog-99CCFF?style=for-the-badge&logo=&logoColor=white"/></a> 
 
 <br/><br/>
  
