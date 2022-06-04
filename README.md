@@ -2,7 +2,7 @@
 <div align="center"> 
  
 <!-- 배너 -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=footer&text=Jangorithm%20Github&fontSize=60)
+<a href="https://github.com/Jangorithm"><img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=footer&text=Jangorithm%20Github&fontSize=60"/></a>
 
 <!--띄어쓰기-->
 <br/><br/>
