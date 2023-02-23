@@ -20,20 +20,7 @@
 AI,ML,DL
  
  
- <br/><br/>
 
- 
-#### 🐬About me🐬
-<!-- 어바웃 미 로고  -->
-<!-- 인스타그램 로고 링크  --> <a href="https://www.instagram.com/jangho_9/"><img src="https://img.shields.io/badge/Instagram-33CCFF?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
-<!-- Gmail 로고 링크 --> 
-<a href="cjh617000@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC66FF?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-
-
-<br/>
-
-<br/>
-<!-- 스킬 로고 -->
  
 #### 🐡SKILLS🐡
 
@@ -45,5 +32,3 @@ AI,ML,DL
  
 
  
- 🦈🐬🐠🐡🐳🐋🦐🦞🦀🦑 🐬🐠🐡🐳🐋🦐🦞🦀  🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠🐡🐳🐋🦐🦞🦀🐬🐠
-</div>
