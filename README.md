@@ -14,6 +14,7 @@
  <a href="https://jugahy.github.io/"><img src="https://img.shields.io/badge/eyears blog-99CCFF?style=for-the-badge&logo=&logoColor=white"/></a> 
  <a href=""><img src="https://img.shields.io/badge/Challenges-99FFFF?style=for-the-badge&logo=&logoColor=white"/></a> 
 <br/><br/>
+#### 2021.03 전주대 인공지능 입학
  
 <!--스터디 로고 -->
 #### 🐠Study🐠
