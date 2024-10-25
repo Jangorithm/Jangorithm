@@ -1,24 +1,7 @@
-<!--글짜 가운데 정렬 -->
-<div align="center"> 
- 
-<!-- 배너 -->
-<a href="https://github.com/Jangorithm"><img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=footer&text=Jangorithm%20Github&fontSize=60"/></a>
-
-<!--띄어쓰기-->
-<br/>
- 
-🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-#
-<!--활동 로고 -->
- #### 🐋활동🐋
- <a href="https://jugahy.github.io/"><img src="https://img.shields.io/badge/eyears blog-99CCFF?style=for-the-badge&logo=&logoColor=white"/></a> 
- <a href=""><img src="https://img.shields.io/badge/Challenges-99FFFF?style=for-the-badge&logo=&logoColor=white"/></a> 
-<br/><br/>
 
 #### 2021.03 전주대 인공지능 입학
  
 <!--스터디 로고 -->
-#### 🐠Study🐠
 AI,ML,DL
  
  
