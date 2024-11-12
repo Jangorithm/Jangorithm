@@ -33,7 +33,8 @@
 - Developed a CNN-based pest classification model to identify 41 pest types from images, integrating TTS for accessibility for elderly users.
 
 ### Dareesoft (Mar. 2024 - Jun. 2024)
-**Lane Damage Assessment System Using AI - Wemeet Project (대한상공회의소)**
+
+**[Lane Damage Assessment System Using AI - Wemeet Project (대한상공회의소)](https://github.com/Jangorithm/Damaged-Lane-Marking-Classification)**
 - Developed a YOLO v8-based real-time lane damage detection model to improve road safety and enable targeted maintenance, particularly under low-visibility conditions.
 
 ### Suhwooms (Jan. 2024)
