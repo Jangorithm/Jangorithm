@@ -1,4 +1,4 @@
-<h1 align="center">👋 Jangorithm </h1>
+<h1 align="center">👋 Jangho CHOI </h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/2021.03-Jeonju University AI Major-0099CC?style=for-the-badge"/> 
