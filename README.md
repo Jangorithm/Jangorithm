@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! Welcome to my GitHub</h1>
+<h1 align="center">👋 Jangorithm </h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/2021.03-전주대 인공지능 입학-0099CC?style=for-the-badge"/>
@@ -15,10 +15,7 @@
     <!-- Add other skills and technology badges here -->
 </p>
 
-<!-- AI, ML, DL Banner -->
-<p align="center">
-    <img src="https://img.shields.io/badge/AI-ML-DL-0A192F?style=for-the-badge"/>
-</p>
+
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
