@@ -1,19 +1,27 @@
+<h1 align="center">👋 Hi there! Welcome to my GitHub</h1>
 
-#### 2021.03 전주대 인공지능 입학
+<p align="center">
+    <img src="https://img.shields.io/badge/2021.03-전주대 인공지능 입학-0099CC?style=for-the-badge"/>
  
-<!--스터디 로고 -->
-AI,ML,DL
- 
- 
+</p>
 
- 
-#### 🐡SKILLS🐡
+<!-- Skills and Technology Section -->
+<h2 align="center">🐡 Skills 🐡</h2>
+<p align="center">
+    <!-- Python Badge -->
+    <a href="https://github.com/Jangorithm/python-basics">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffdd54"/>
+    </a>
+    <!-- Add other skills and technology badges here -->
+</p>
 
-<!-- 파이썬 로고 링크 -->
- <a href="https://github.com/Jangorithm/python-basics"><img src="https://img.shields.io/badge/Python-0099CC?style=for-the-badge&logo=Python&logoColor=ffdd54"/></a>
+<!-- AI, ML, DL Banner -->
+<p align="center">
+    <img src="https://img.shields.io/badge/AI-ML-DL-0A192F?style=for-the-badge"/>
+</p>
 
- 
- <br/>
- 
-
- 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jangorithm&show_icons=true&theme=radical" alt="Jangorithm's GitHub stats"/>
+</p>
