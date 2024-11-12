@@ -1,8 +1,13 @@
-<h1 align="center">👋 Jangorithm</h1>
+<h1 align="center">👋 Jangorithm </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/2021.03-전주대 인공지능 입학-0099CC?style=for-the-badge"/> ing
+    <img src="https://img.shields.io/badge/2021.03-Jeonju University AI Major-0099CC?style=for-the-badge"/> 
 </p>
+
+<p align="center">
+    <strong>Hello!</strong> I’m a senior in Artificial Intelligence at Jeonju University, currently preparing for graduate school to deepen my expertise and pursue my passion for AI.
+</p>
+
 
 ---
 
