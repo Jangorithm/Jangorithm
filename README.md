@@ -17,7 +17,6 @@
 - **Deep Learning**
 - **Computer Vision**
 - **Machine Learning**
-- **Healthcare/Medical AI**
 
 ---
 
