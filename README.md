@@ -24,7 +24,7 @@
 <h2 align="center">💼 Projects</h2>
 
 ### LINE-INFO (Sep. 2024 - Dec. 2024)
-**[Super-Resolution for Low-Resolution CCTV Vehicle License Plate Images - Wemeet Project (대한상공회의소)](Super-Resolution for Low-Resolution CCTV Vehicle License Plate Images)**
+**[Super-Resolution for Low-Resolution CCTV Vehicle License Plate Images - Wemeet Project (대한상공회의소)](https://github.com/Jangorithm/Super-Resolution-for-Low-Resolution-CCTV-Vehicle-License-Plate-Images)**
 - Investigating super-resolution techniques and deep learning models to enhance the quality of vehicle license plate images from low-resolution CCTV footage.
 - Using probability distributions to generate high-quality images, improving accuracy over traditional methods.
 
