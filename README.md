@@ -12,7 +12,7 @@
 ---
 
 <h2 align="center">📌 Research Interests</h2>
-
+- **Generative AI**
 - **Deep Learning**
 - **Computer Vision**
 - **Machine Learning**
@@ -22,12 +22,12 @@
 
 <h2 align="center">💼 Projects</h2>
 
-### LINE-INFO (Sep. 2024 - Present)
+### LINE-INFO (Sep. 2024 - Dec. 2024)
 **AI-based Vehicle License Plate Recognition Using CCTV - Wemeet Project (대한상공회의소)**
 - Investigating super-resolution techniques and deep learning models (CNNs, GANs) to enhance the quality of vehicle license plate images from low-resolution CCTV footage.
 - Using probability distributions to generate high-quality images, improving accuracy over traditional methods.
 
-### HANGIL C&C (Sep. 2024 - Present)
+### HANGIL C&C (Sep. 2024 - Dec. 2024)
 **Development of an sLLM-based Farming Assistant Chatbot Web Service - Wemeet Project (대한상공회의소)**
 - Built a chatbot system optimized for Korean, using KULLM3 model and vector search for query responses.
 - Developed a CNN-based pest classification model to identify 41 pest types from images, integrating TTS for accessibility for elderly users.
