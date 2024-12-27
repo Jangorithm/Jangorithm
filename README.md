@@ -12,6 +12,7 @@
 ---
 
 <h2 align="center">📌 Research Interests</h2>
+
 - **Generative AI**
 - **Deep Learning**
 - **Computer Vision**
